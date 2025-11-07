@@ -259,14 +259,11 @@ This project contributes to UN Sustainable Development Goals:
 - [ ] Community features (farmer network)
 - [ ] Integration with weather data
 
----
+Note to Evaluator:
+The submitted file link for week2 is changed and was recently updated and renamed to a Week2.py file for better clarity and execution.
+If the originally submitted link does not open directly, please access the updated file here:
 
-## 🤝 Contributing
+👉 Updated file: Week2.py
 
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+All the code, logic, and functionality remain the same — only the file type was changed.
+Thank you for your understanding.
